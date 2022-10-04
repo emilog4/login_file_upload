@@ -1,0 +1,39 @@
+/* body{
+    background-color: rgba(34, 34, 34, 0.638);
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    width: 100vw;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    padding: 5%;
+
+}
+
+input{
+    padding: 12px 20px;
+    width: 20vw;
+}
+
+.send{
+    width: 5vw;
+}
+
+
+.button{
+    display: flex;
+    display: row;
+}
+
+
+.register{
+    color: white;
+    list-style: none;
+} */
